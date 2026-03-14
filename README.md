@@ -10,7 +10,7 @@ I connect things. Systems, APIs, ideas, people, hardware, software — if there 
 
 My path has taken me through:
 
-- **The physics of silicon** — PNN doping, substrate behavior, the actual atoms doing the work
+- **The physics of silicon** — doping, substrate behavior, the actual atoms doing the work
 - **Digital logic design** — building a functioning CPU in VHDL, gate by gate
 - **IT Support** - being a member of the College of Engineering IT Department, supporting all the computers and students in the college
 - **Interface engineering** — at Xilinx, bridging C++ engines to Java UIs through SWIG-generated bindings, back when that was genuinely hard
