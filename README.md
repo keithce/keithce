@@ -60,11 +60,10 @@ I've long been fascinated by the brain and neural networks. In college, that int
 
 ## Let's Connect
 
-🔗 [rproj.art](https://rproj.art) — projects & links hub
-🌐 [resonantprojects.art](https://www.resonantprojects.art) — writing & creative work
-💼 [LinkedIn](https://www.linkedin.com/in/keithcelliott/)
-💻 [GitHub](https://github.com/keithce) — you're already here
-🏢 [@resonant-projects](https://github.com/resonant-projects) — org repos
+🔗 [rproj.art](https://rproj.art) — projects & links hub  
+🌐 [resonantprojects.art](https://www.resonantprojects.art) — writing & creative work  
+💼 [LinkedIn](https://www.linkedin.com/in/keithcelliott/)  
+🏢 [@resonant-projects](https://github.com/resonant-projects) — org repos  
 
 ---
 
