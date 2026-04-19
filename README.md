@@ -29,6 +29,24 @@ These days, I'm especially energized by **LLM-facilitated development**. Not bec
 
 ⚡ **Performance & Optimization** — whether it's minimizing latency, simplifying UX, or shaving seconds off my own workflows.
 
+## Featured Projects
+
+### 🔧 [License Management Platform](https://license.rproj.art)
+Open-source, vendor-agnostic license server monitoring. A Rust agent (Tokio/Axum) collects data from 13+ vendor parsers, streams it via WebSocket/SSE, and a Next.js dashboard unifies everything. Built because the commercial alternatives cost thousands and the open-source options were stuck in 2005.
+**Rust · TypeScript · Next.js · OpenTelemetry · Grafana**
+
+### 🌟 [Vedic Today](https://www.vedic.today)
+Full SaaS platform for personalized Vedic astrology — birth chart analysis, daily guidance, transit timeline, and planning tools. Co-created with a certified Vedic astrologer. Built with SolidJS, TypeScript, and Convex.
+**SolidJS · TypeScript · Convex · Clerk · Resend**
+
+### 🎵 [Resonant Projects](https://www.resonantprojects.art)
+My interdisciplinary home base — writing at the intersection of music, physics, engineering, and creative technology. Also home to Resonant Rhythm (mixing/mastering) and Resonant Design (tech consulting for creatives).
+**Astro · Tailwind · Notion CMS**
+
+### 🎶 [Frequency Music](https://github.com/resonant-projects/frequency-music)
+Tools connecting music, physics, and mathematics — exploring the relationships between frequency, harmony, and perception.
+**TypeScript**
+
 ## Beyond the Terminal
 
 🚴 Road cycling & mountain biking — systems in motion  
@@ -42,8 +60,11 @@ I've long been fascinated by the brain and neural networks. In college, that int
 
 ## Let's Connect
 
-🔗 **[rproj.art](https://rproj.art)** — live projects & links  
-💻 **[GitHub](https://github.com/keithce)** — you're already here
+🔗 [rproj.art](https://rproj.art) — projects & links hub
+🌐 [resonantprojects.art](https://www.resonantprojects.art) — writing & creative work
+💼 [LinkedIn](https://www.linkedin.com/in/keithcelliott/)
+💻 [GitHub](https://github.com/keithce) — you're already here
+🏢 [@resonant-projects](https://github.com/resonant-projects) — org repos
 
 ---
 
